@@ -1,0 +1,7 @@
+body{
+    background-color: rgba(16, 47, 80, .9);
+    width: 500px;
+    margin: 20px auto;
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+}
